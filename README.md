@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Oleg!
-CEO and Founder @ devActivity. [LinkedIn](https://www.linkedin.com/in/olegcherevatyy/)
+CEO and Founder @ devActivity. [LinkedIn](https://www.linkedin.com/in/olegcherevatyy/), [Twitter](https://twitter.com/olegcherev)
 
 [**Install app**](https://github.com/apps/dev-activity) to effortlessly implement:
 - 🏆 XP, Levels, Achievements, Leaderboard based on Contributions
